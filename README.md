@@ -8,6 +8,7 @@ This project showcases an **end-to-end data engineering solution** using **Micro
 
 ## Architecture  
 <img src="Architecture.jpeg" alt="Project Architecture" width="900"/>  
+![Fabric](https://github.com/user-attachments/assets/2f9a0c5b-a9e6-4f4f-b1ac-3659e70384fe)
 
 ---
 
